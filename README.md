@@ -1,5 +1,6 @@
-Stack Overflow Developer Survey 2024  
+# Stack Overflow Developer Survey 2024  
 
-exploratory data analysis, hypothesis testing
+- exploratory data analysis, hypothesis testing
+- CI, t-tests, bootstrapping, and ANOVA
 
-CI, t-tests, bootstrapping, ANOVA and bootstrapped 
+Details in report.pdf.
